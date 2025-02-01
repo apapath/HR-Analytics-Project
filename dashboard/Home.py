@@ -51,7 +51,7 @@ with st.container(border=True):
 		st.markdown("""
 		#### **Andriani Papatheodoropoulou**  
 		**BSc Chemistry**  """)
-		st.image("C:/Users/andri/OneDrive/Desktop/github_apath/HR-Analytics-Project/Data/andriani plus qr.jpg", width=400)
+		st.image("https://drive.google.com/file/d/1Q1HLPf4NN13tJ0Rc5bZ6QPF-fPZ3lt3X/view", width=400)
 
 	with col2:
 		st.markdown("""
