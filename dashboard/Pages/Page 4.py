@@ -11,10 +11,9 @@ from sklearn.preprocessing import StandardScaler
 # Page Config
 st.set_page_config(page_title="Page 4", page_icon="🧠", layout="wide")
 
-# Data Importing and Transformation-------------------------------------------------------------------
-# Import datasets
-df1 = pd.read_csv("C:/Users/andri/OneDrive/Desktop/hr-analytics/Data/Employee.csv")
-df2 = pd.read_csv("C:/Users/andri/OneDrive/Desktop/hr-analytics/Data/PerformanceRating.csv")
+# Data Importing and Proccessing----------------------------------------------------------------------------------------
+df1 = pd.read_csv("../Data/Employee.csv")
+df2 = pd.read_csv("../Data/PerformanceRating.csv")
 
 # Merge the 2 datasets.
 df = df1.merge(df2, how="inner", on="EmployeeID")

@@ -9,8 +9,8 @@ import plotly.graph_objects as go
 st.set_page_config(page_title="Page 3", page_icon="📈", layout="wide")
 
 # Data Importing and Proccessing----------------------------------------------------------------------------------------
-df1 = pd.read_csv("C:/Users/andri/OneDrive/Desktop/hr-analytics/Data/Employee.csv")
-df2 = pd.read_csv("C:/Users/andri/OneDrive/Desktop/hr-analytics/Data/PerformanceRating.csv")
+df1 = pd.read_csv("../Data/Employee.csv")
+df2 = pd.read_csv("../Data/PerformanceRating.csv")
 
 # Merge the 2 datasets.
 df = df1.merge(df2, how="inner", on="EmployeeID")

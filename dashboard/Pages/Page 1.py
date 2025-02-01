@@ -8,8 +8,8 @@ import plotly.express as px
 st.set_page_config(page_title="Page 1", page_icon="https://static-00.iconduck.com/assets.00/demographic-icon-2048x1908-4opu48c0.png", layout="wide")
 
 # Data Importing and Proccessing----------------------------------------------------------------------------------------
-df1 = pd.read_csv("C:/Users/andri/OneDrive/Desktop/hr-analytics/Data/Employee.csv")
-df2 = pd.read_csv("C:/Users/andri/OneDrive/Desktop/hr-analytics/Data/PerformanceRating.csv")
+df1 = pd.read_csv("../Data/Employee.csv")
+df2 = pd.read_csv("../Data/PerformanceRating.csv")
 
 # Merge the 2 datasets.
 df = df1.merge(df2, how="inner", on="EmployeeID")
