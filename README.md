@@ -39,8 +39,6 @@ The HR Analytics Project is designed to address the following critical business 
 4. **Departmental Alignment**  
    - Compare gender distribution in each department to the overall company distribution.  
 
----
-
 ### Performance Metrics
 
 5. **Department Comparisons**  
@@ -49,8 +47,6 @@ The HR Analytics Project is designed to address the following critical business 
 6. **Tenure Balance**  
    - Understand tenure distributions to identify gaps in experience levels.  
 
----
-
 ### Promotions and Layoffs
 
 7. **Promotion Goals**  
@@ -58,8 +54,6 @@ The HR Analytics Project is designed to address the following critical business 
 
 8. **Layoffs**  
    - Evaluate performance-based layoffs and ensure they remain below company thresholds.  
-
----
 
 ### Attrition Analysis
 
