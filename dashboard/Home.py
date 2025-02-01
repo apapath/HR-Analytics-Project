@@ -51,7 +51,7 @@ with st.container(border=True):
 		st.markdown("""
 		#### **Andriani Papatheodoropoulou**  
 		**BSc Chemistry**  """)
-		st.image("andriani plus qr.jpg", width=400)
+		st.image("/Data/andriani plus qr.jpg", width=400)
 
 	with col2:
 		st.markdown("""
