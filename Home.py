@@ -51,17 +51,17 @@ with st.container(border=True):
 		st.markdown("""
 		#### **Andriani Papatheodoropoulou**  
 		**BSc Chemistry**  """)
-		st.image("../Data/andriani plus qr.jpg", width=400)
+		st.image("andriani plus qr.jpg", width=400)
 
 	with col2:
 		st.markdown("""
 		#### **Androniki Paragyiou**  
 		**BSc Economics**  """)
-		st.image("../Data/androniki plus qr.jpg", width=400)
+		st.image("androniki plus qr.jpg", width=400)
 
 	with col3:
 		st.markdown("""
 		#### **Nikolas Bourantas**  
 		**MSc Agricultural Economics and Rural Development**  """)
-		st.image("../Data/nikolas plus qr.jpg", width=400)
+		st.image("nikolas plus qr.jpg", width=400)
 
