@@ -25,8 +25,6 @@ The HR Analytics Project is designed to address the following critical business 
 
 ### Workforce Demographics
 
-### Workforce Demographics
-
 01. **Gender Balance**  
    - Assess current gender distribution across the workforce.  
    - Identify whether recruiting efforts should target a specific gender to maintain balance.  
@@ -86,7 +84,7 @@ The HR Analytics Project is designed to address the following critical business 
   - Workforce demographics breakdown.
   - Layoff and promotion trends by department and role.
   - Attrition analysis with detailed insights into driving factors.
-- **Machine Learning:** Predict employee attrition probabilities with a logistic regression-based model.
+- **Machine Learning:** Predict employee attrition probabilities with a logistic regression model.
 
 ## 💡 Key Insights
 
@@ -140,11 +138,9 @@ The HR Analytics Project is designed to address the following critical business 
 
 ### 2. Install Dependencies  
 Run the following command to install the required packages:  
-```bash
 pip install -r requirements.txt
 
 ### 3. Run the Application
-```bash
 streamlit run Home.py  
 
 ### 4. **Start Exploring:**
