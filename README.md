@@ -137,10 +137,11 @@ The HR Analytics Project is designed to address the following critical business 
 - Clone the repository or download it as a ZIP file and extract it.
 
 ### 2. Install Dependencies  
-Run the following command to install the required packages:  
+- Run the following command to install the required packages:  
 pip install -r requirements.txt
 
 ### 3. Run the Application
+- Use the following command to run the application: 
 streamlit run Home.py  
 
 ### 4. **Start Exploring:**
