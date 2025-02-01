@@ -24,50 +24,56 @@ The HR Analytics Project is designed to address the following critical business 
 
 ### Workforce Demographics
 
-1. **Gender Balance**:
-   - Assess current gender distribution across the workforce.
-   - Identify whether recruiting efforts should target a specific gender to maintain balance.
+1. **Gender Balance**  
+   - Assess current gender distribution across the workforce.  
+   - Identify whether recruiting efforts should target a specific gender to maintain balance.  
 
-2. **Age Distribution**:
-   - Determine if the workforce composition is young or aging.
-   - Develop strategies for hiring specific age groups.
+2. **Age Distribution**  
+   - Determine if the workforce composition is young or aging.  
+   - Develop strategies for hiring specific age groups.  
 
-3. **Marital Status Trends**:
-   - Analyze the distribution of marital status within the workforce.
-   - Highlight potential demographic trends worth noting.
+3. **Marital Status Trends**  
+   - Analyze the distribution of marital status within the workforce.  
+   - Highlight potential demographic trends worth noting.  
 
-4. **Departmental Alignment**:
-   - Compare gender distribution in each department to the overall company distribution.
+4. **Departmental Alignment**  
+   - Compare gender distribution in each department to the overall company distribution.  
+
+---
 
 ### Performance Metrics
 
-5. **Department Comparisons**:
-   - Evaluate departments by attrition rates and salary distributions.
+5. **Department Comparisons**  
+   - Evaluate departments by attrition rates and salary distributions.  
 
-6. **Tenure Balance**:
-   - Understand tenure distributions to identify gaps in experience levels.
+6. **Tenure Balance**  
+   - Understand tenure distributions to identify gaps in experience levels.  
+
+---
 
 ### Promotions and Layoffs
 
-7. **Promotion Goals**:
-   - Assess whether promotion targets are being met and identify areas for improvement.
+7. **Promotion Goals**  
+   - Assess whether promotion targets are being met and identify areas for improvement.  
 
-8. **Layoffs**:
-   - Evaluate performance-based layoffs and ensure they remain below company thresholds.
+8. **Layoffs**  
+   - Evaluate performance-based layoffs and ensure they remain below company thresholds.  
+
+---
 
 ### Attrition Analysis
 
-9. **Attrition Rate**:
-   - Calculate current attrition rates and uncover factors driving turnover.
+9. **Attrition Rate**  
+   - Calculate current attrition rates and uncover factors driving turnover.  
 
-10. **Retention Trends**:
-   - Determine whether employees are staying long-term or leaving prematurely.
+10. **Retention Trends**  
+   - Determine whether employees are staying long-term or leaving prematurely.  
 
-11. **Compensation and Services**:
-   - Assess how salary and company services influence attrition.
+11. **Compensation and Services**  
+   - Assess how salary and company services influence attrition.  
 
-12. **Demographic Correlations**:
-   - Analyze how attrition correlates with factors like education, department, and tenure.
+12. **Demographic Correlations**  
+   - Analyze how attrition correlates with factors like education, department, and tenure.  
 
 ## 🎨 Features
 
