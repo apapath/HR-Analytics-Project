@@ -24,6 +24,8 @@ The HR Analytics Project is designed to address the following critical business 
 
 ### Workforce Demographics
 
+### Workforce Demographics
+
 1. **Gender Balance**  
    - Assess current gender distribution across the workforce.  
    - Identify whether recruiting efforts should target a specific gender to maintain balance.  
@@ -39,6 +41,8 @@ The HR Analytics Project is designed to address the following critical business 
 4. **Departmental Alignment**  
    - Compare gender distribution in each department to the overall company distribution.  
 
+---
+
 ### Performance Metrics
 
 5. **Department Comparisons**  
@@ -47,6 +51,8 @@ The HR Analytics Project is designed to address the following critical business 
 6. **Tenure Balance**  
    - Understand tenure distributions to identify gaps in experience levels.  
 
+---
+
 ### Promotions and Layoffs
 
 7. **Promotion Goals**  
@@ -54,6 +60,8 @@ The HR Analytics Project is designed to address the following critical business 
 
 8. **Layoffs**  
    - Evaluate performance-based layoffs and ensure they remain below company thresholds.  
+
+---
 
 ### Attrition Analysis
 
@@ -100,21 +108,19 @@ The HR Analytics Project is designed to address the following critical business 
 
 ## 🗂️ Files Included
 
-HR-Analytics-Project/
-├── dashboard/                      # Streamlit dashboard code
-│   ├── Home.py                     # Main Streamlit application
-│   ├── Pages/                      # Pages folder for dashboard pages
-│       ├── Page 1.py               # Workforce Demographics code
-│       ├── Page 2.py               # Promotions & Layoffs code
-│       ├── Page 3.py               # Attrition Analysis code
-│       └── Page 4.py               # Attrition Prediction Model code
-│
-├── Screenshots/                    # Folder containing screenshots of the dashboard
-│
-├── HR-Analytics-Project.pptx       # PowerPoint Presentation of the project
-├── requirements.txt                # Dependencies for the project environment
-├── .gitignore                      # Ignore unnecessary files and sensitive information
-└── README.md                       # This guide to the project.
+- **dashboard/** - Streamlit dashboard  
+  - `Home.py` - Main application  
+  - **Pages/** - Dashboard sections  
+    - `Workforce.py` - Workforce Demographics  
+    - `Promotions.py` - Promotions & Layoffs  
+    - `Attrition.py` - Attrition Analysis  
+    - `Prediction.py` - Attrition Prediction Model  
+
+- **Screenshots/** - Dashboard previews  
+- `HR-Analytics-Project.pptx` - Project presentation  
+- `requirements.txt` - Dependencies  
+- `.gitignore` - Ignore unnecessary files  
+- `README.md` - Project guide   
 
 
 ## 🛠️ Tools and Data
