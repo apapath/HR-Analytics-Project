@@ -12,8 +12,8 @@ with st.sidebar:
 	st.title("**Promotions & Lay-offs**")
 
 # Data Importing and Proccessing----------------------------------------------------------------------------------------
-df1 = pd.read_csv("../Data/Employee.csv")
-df2 = pd.read_csv("../Data/PerformanceRating.csv")
+df1 = pd.read_csv("./Data/Employee.csv")
+df2 = pd.read_csv("./Data/PerformanceRating.csv")
 
 # Merge the 2 datasets.
 df = df1.merge(df2, how="inner", on="EmployeeID")
