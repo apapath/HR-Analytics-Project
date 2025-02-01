@@ -27,46 +27,46 @@ The HR Analytics Project is designed to address the following critical business 
 
 ### Workforce Demographics
 
-1. **Gender Balance**  
+01. **Gender Balance**  
    - Assess current gender distribution across the workforce.  
    - Identify whether recruiting efforts should target a specific gender to maintain balance.  
 
-2. **Age Distribution**  
+02. **Age Distribution**  
    - Determine if the workforce composition is young or aging.  
    - Develop strategies for hiring specific age groups.  
 
-3. **Marital Status Trends**  
+03. **Marital Status Trends**  
    - Analyze the distribution of marital status within the workforce.  
    - Highlight potential demographic trends worth noting.  
 
-4. **Departmental Alignment**  
+04. **Departmental Alignment**  
    - Compare gender distribution in each department to the overall company distribution.  
 
 ---
 
 ### Performance Metrics
 
-5. **Department Comparisons**  
+05. **Department Comparisons**  
    - Evaluate departments by attrition rates and salary distributions.  
 
-6. **Tenure Balance**  
+06. **Tenure Balance**  
    - Understand tenure distributions to identify gaps in experience levels.  
 
 ---
 
 ### Promotions and Layoffs
 
-7. **Promotion Goals**  
+07. **Promotion Goals**  
    - Assess whether promotion targets are being met and identify areas for improvement.  
 
-8. **Layoffs**  
+08. **Layoffs**  
    - Evaluate performance-based layoffs and ensure they remain below company thresholds.  
 
 ---
 
 ### Attrition Analysis
 
-9. **Attrition Rate**  
+09. **Attrition Rate**  
    - Calculate current attrition rates and uncover factors driving turnover.  
 
 10. **Retention Trends**  
