@@ -1,7 +1,8 @@
 # HR Analytics Project Dashboard
 
 **Jan 2025 - Feb 2025**
-**Associated with Big Blue Data Academy**
+
+Associated with Big Blue Data Academy
 
 ## 🌍 Project Overview
 
@@ -69,13 +70,14 @@ The HR Analytics Project is designed to address the following critical business 
    - Calculate current attrition rates and uncover factors driving turnover.  
 
 10. **Retention Trends**  
-   - Determine whether employees are staying long-term or leaving prematurely.  
+   - Determine whether employees are staying long-term or leaving prematurely.
 
 11. **Compensation and Services**  
-   - Assess how salary and company services influence attrition.  
+   - Assess how salary and company services influence attrition. 
 
 12. **Demographic Correlations**  
-   - Analyze how attrition correlates with factors like education, department, and tenure.  
+   - Analyze how attrition correlates with factors like education, department, and tenure.
+  
 
 ## 🎨 Features
 
@@ -108,19 +110,20 @@ The HR Analytics Project is designed to address the following critical business 
 
 ## 🗂️ Files Included
 
-- **dashboard/** - Streamlit dashboard  
-  - `Home.py` - Main application  
-  - **Pages/** - Dashboard sections  
-    - `Workforce.py` - Workforce Demographics  
-    - `Promotions.py` - Promotions & Layoffs  
-    - `Attrition.py` - Attrition Analysis  
-    - `Prediction.py` - Attrition Prediction Model  
-
-- **Screenshots/** - Dashboard previews  
-- `HR-Analytics-Project.pptx` - Project presentation  
-- `requirements.txt` - Dependencies  
-- `.gitignore` - Ignore unnecessary files  
-- `README.md` - Project guide   
+- Home.py                   - Main application  
+- **pages/**                - Dashboard pages 
+    -  Page 1.py 
+    -  Page 2.py 
+    -  Page 3.py  
+    -  Page 4.py
+- **Screenshots/**          - Dashboard preview images
+- **.streamlit/**           
+    - config.toml           - Dashboard configuration file
+- **Data/**                 - Folder containing project data & assets
+- HR-Analytics-Project.pdf  - Project presentation  
+- requirements.txt          - Dependencies  
+- .gitignore                - Ignore unnecessary files  
+- README.md                 - Project guide   
 
 
 ## 🛠️ Tools and Data
@@ -132,17 +135,22 @@ The HR Analytics Project is designed to address the following critical business 
 
 ## 🚀 How to Explore
 
-1. **Download the Project:**
-   - Clone the repository or download it as a ZIP file.
+### 1. Download the Project  
+- Clone the repository or download it as a ZIP file and extract it.
 
-2. **Install Dependencies:**
-   pip install -r requirements.txt  
+### 2. Install Dependencies  
+Run the following command to install the required packages:  
+```bash
+pip install -r requirements.txt
 
-3. **Run the Application:**
-   streamlit run Home.py  
+### 3. Run the Application
+```bash
+streamlit run Home.py  
 
-4. **Start Exploring:**
-   - Access the dashboard in your browser at `http://localhost:8501`.
+### 4. **Start Exploring:**
+- Access the dashboard in your browser at `http://localhost:8501`.
+
+### Alternatively, find the deployed app at: [HR Analytics Project](https://hr-analytics-project-202502.streamlit.app/)
 
 ## ✨ Let’s Connect
 If you find this project interesting or have ideas to improve it, let me know! I’d love to hear from you:
