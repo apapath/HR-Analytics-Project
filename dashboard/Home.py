@@ -51,17 +51,17 @@ with st.container(border=True):
 		st.markdown("""
 		#### **Andriani Papatheodoropoulou**  
 		**BSc Chemistry**  """)
-		st.image("https://www.dropbox.com/scl/fi/sba90om3lzsbs908qkysh/andriani-plus-qr.jpg?rlkey=zcvexewn7d0zjcofomdi3eu1c&st=smv9qr2q&raw=1", width=400)
+		st.image("../Data/andriani plus qr.jpg", width=400)
 
 	with col2:
 		st.markdown("""
 		#### **Androniki Paragyiou**  
 		**BSc Economics**  """)
-		st.image("https://www.dropbox.com/scl/fi/8h06a8u4btq9sgqli5bo2/androniki-plus-qr.jpg?rlkey=ph3k32fpsmzh1fm64lcejrhu7&st=ph2mlutr&raw=1", width=400)
+		st.image("../Data/androniki plus qr.jpg", width=400)
 
 	with col3:
 		st.markdown("""
 		#### **Nikolas Bourantas**  
 		**MSc Agricultural Economics and Rural Development**  """)
-		st.image("https://www.dropbox.com/scl/fi/t0hyqsl0w56dzrl7daqhf/nikolas-plus-qr.jpg?rlkey=rsl85wlcl5kf7dvw0p6bsfji2&st=dx8qqcff&raw=1", width=400)
+		st.image("../Data/nikolas plus qr.jpg", width=400)
 
