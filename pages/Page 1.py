@@ -52,6 +52,8 @@ if selected_status:
         selected_status = ["No"]
     elif selected_status == ["Inactive"]:
         selected_status = ["Yes"]
+    else:
+        selected_status = ["Yes", "No"]
     filtered_df = filtered_df[filtered_df["Attrition"].isin(selected_status)]
 
 # Metrics -------------------------------------------------------------------------------------------------
